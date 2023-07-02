@@ -3,6 +3,7 @@
       {
         "city": "hyderabad",
         "name": "Daniel Cricket Academy",
+        "catergory" : "cricket",
         "location": "hyderabad",
         "image": "https://playo-activities.gumlet.io/DANIELSCRICKETACADEMY/DanielsCricketAcademycover1502371285385.jpg?q=40",
         "timing": " 6 AM - 8 AM, 4 PM - 8 PM ",
@@ -15,6 +16,7 @@
       {
         "city": "hyderabad",
         "name": "SVM Bowling Alley Gachibowli",
+        "catergory" : "cricket",
         "location": "36/A, Sai Tirumala Platinum Building, Old Mumbai Hwy, Telecom Nagar Extension",
         "image": "https://playo-activities.gumlet.io/SVMBOWLINGALLEY/SVMBowlingAlleycover.jpg?q=40",
         "timing": "All Days | 10 AM - 10 PM",
@@ -29,6 +31,7 @@
       {
         "city": "hyderabad",
         "name": "CHETAN ANAND BADMINTON ACADEMY",
+        "catergory" : "badminton",
         "location": "Madhapur",
         "image": "https://playo-activities.gumlet.io/CHETANANANDBADMINTONACADEMY/ChetanAnandBadmintonAcademycover1502371131832.jpg?q=40",
         "timing": "Morning 5 AM - 7 AM, Evening 4 PM - 6 PM",
@@ -43,6 +46,7 @@
       {
         "city": "hyderabad",
         "name": "PRAXIS SWIMMING",
+        "catergory" : "swimming",
         "location": "Narayanguda",
         "image": "https://playo-activities.gumlet.io/PRAXISSWIMMING/PraxisSwimmingcover1502371803701.jpg?q=40",
         "timing": "6 AM - 10 AM, 4 PM - 9 PM ( Tuesday - Sunday )",
@@ -57,6 +61,7 @@
       {
         "city": "hyderabad",
         "name": "INSPORTS CRICKET ACADEMY",
+        "catergory" : "cricket",
         "location": "Banjara Hills",
         "image": "https://playo-activities.gumlet.io/INSPORTSCRICKTACADEMY/InsportsCricketAcademycover1502371426327.jpg?q=40",
         "timing": "6 AM - 8 AM, 4 PM - 8 PM",
@@ -71,6 +76,7 @@
       {
         "city": "hyderabad",
         "name": "ST. JOHNS CRICKET ACADEMY",
+        "catergory" : "cricket",
         "location": "East Marredpally",
         "image": "https://playo-activities.gumlet.io/ST.JOHNSCRICKETACADEMY/StJohnsCricketAcademycover1502371361943.jpg?q=40",
         "timing": "Morning & Evening sessions",
@@ -85,6 +91,7 @@
       {
         "city": "hyderabad",
         "name": "RAJU'S CRICKET COACHING ACADEMY",
+        "catergory" : "cricket",
         "location": "Sri Nagar Colony",
         "image": "https://playo-activities.gumlet.io/RAJUSCRICKETCOACHINGACADEMY/RajusCricketCoachingacademycover1502371488749.jpg?q=40",
         "timing": "Morning & Evening Sessions",
@@ -99,6 +106,7 @@
       {
         "city": "hyderabad",
         "name": "VVS SPORTS ACADEMY",
+        "catergory" : "cricket",
         "location": "Moinabad",
         "image": "https://playo-activities.gumlet.io/VVSSPORTSACADEMY/VVSSportsAcademycover1502371222509.jpg?q=40",
         "timing": "Morning & Evening sessions",
@@ -113,6 +121,7 @@
       {
         "city": "delhi",
         "name": "WEST DELHI CRICKET ACADEMY",
+        "catergory" : "cricket",
         "location": "1A-2 Block, St. Sophia School, Paschim Vihar, New Delhi, Delhi 110063",
         "image": "https://playo-activities.gumlet.io/WESTDELHICRICKETACADEMY/WestDelhiCricketAcademycover1509333363895.jpg?q=40",
         "timing": "Morning and Evening session",
@@ -127,6 +136,7 @@
       {
         "city": "delhi",
         "name": "DRONACHARYA CRICKET FOUNDATION",
+        "catergory" : "cricket",
         "location": "Near Hanuman Balaji Mandir, Vivek Vihar, New Delhi, Delhi 110092",
         "image": "https://playo-activities.gumlet.io/DRONACHARYACRICKETFOUNDATION/DronacharyaCricketFoundationcover1509334189090.jpg?q=40",
         "timing": "Morning and Evening Session",
@@ -141,6 +151,7 @@
       {
         "city": "delhi",
         "name": "SEHWAG CRICKET ACADEMY",
+        "catergory" : "swimming",
         "location": "X-12, Hauz Khas Road, Hauz Khas Main Market, New Delhi, Delhi 110016",
         "image": "https://playo-activities.gumlet.io/SEHWAGCRICKETACADEMY/SehwagCricketAcademycover1509335108795.jpg?q=40",
         "timing": "Morning and Evening Session",
@@ -155,6 +166,7 @@
       {
         "city": "delhi",
         "name": "MADAN LAL CRICKET ACADEMY",
+        "catergory" : "cricket",
         "location": "DDA Siri Fort Sports Complex, August Kranti Marg, Khelgaon, Behind Siri Fort Auditorium, New Delhi, Delhi 110049",
         "image": "https://playo-activities.gumlet.io/GYANTICRICKETCOACHING/GyantiCricketCoachingcover1509432145244.jpg?q=40",
         "timing": "Morning and Evening session",
@@ -169,6 +181,7 @@
       {
         "city": "delhi",
         "name": "HARBEER CRICKET ACADEMY",
+        "catergory" : "cricket",
         "location": "Opp.Japanese Park, Sector 9, Rohini west, Delhi, 110085",
         "image": "https://playo-activities.gumlet.io/HARBEERCRICKETACADEMY/HarbeerCricketAcademycover1509431328272.jpg?q=40",
         "timing": "Morning and Evening session",
@@ -183,6 +196,7 @@
       {
         "city": "delhi",
         "name": "EXTRA TIME FOOTBALL ACADEMY",
+        "catergory" : "football",
         "location": "Vasant Vatika, Opposite DPS Vasant Kunj, New Delhi, Delhi 110070",
         "image": "https://playo-activities.gumlet.io/EXTRATIMEFOOTBALLACADEMY/ExtraTimeFootballAcademycover1509432907532.jpg?q=40",
         "timing": "Morning and Evening session",
@@ -197,6 +211,7 @@
       {
         "city": "delhi",
         "name": "FCBESCOLA FOOTBALL SCHOOL - WEST DELHI",
+        "catergory" : "football",
         "location": "Shivaji College Sports Complex iOS Maidan, Shivaji Enclave, Tagore Garden Extension, New Delhi, Delhi 110018",
         "image": "https://playo-activities.gumlet.io/FCBESCOLAFOOTBALLSCHOOL-WESTDELHI/FCBEscolaFootballSchoolWestDelhicover1509433782873.jpg?q=40",
         "timing": "Morning and Evening session",
@@ -211,6 +226,7 @@
       {
         "city": "delhi",
         "name": "PHOENIX FOOTBALL ACADEMY",
+        "catergory" : "football",
         "location": "DDA Sports Complex, Muni Maya Ram Jain Marg, Pitampura, Delhi, 110034",
         "image": "https://playo-activities.gumlet.io/PHOENIXFOOTBALLACADEMY/PhoenixFootballAcademycover1509435605936.jpg?q=40",
         "timing": "Morning and Evening session",
@@ -225,6 +241,7 @@
       {
         "city": "pune",
         "name": "TWENTY2YARDS CRICKET ACADEMY",
+        "catergory" : "cricket",
         "location": "r.No. 52/C, Dagade-Patil Nagar, Opp. Pinnacle Brookside, Mumbai-Bangalore Bypass Highway, Bavdhan Khurd, Pune, Maharashtra 411021",
         "image": "https://playo-activities.gumlet.io/TWENTY2YARDSCRICKETACADEMY/Twenty2yardsCricketAcademycover1509875258551.jpg?q=40",
         "timing": "Morning and evening session",
@@ -239,6 +256,7 @@
       {
         "city": "pune",
         "name": "ARYANS CRICKET ACADEMY",
+        "catergory" : "cricket",
         "location": "Mulberry Gardens, Opp Laxmi Lawns, Magarpatta City, Hadapsar, Pune, Maharashtra 411028",
         "image": "https://playo-activities.gumlet.io/TWENTY2YARDSCRICKETACADEMY/Twenty2yardsCricketAcademycover1509875258551.jpg?q=40",
         "timing": "Morning and evening session",
@@ -253,6 +271,7 @@
       {
         "city": "pune",
         "name": "SPORTS GALAXY TILEKAR SPORTS ACADEMY",
+        "catergory" : "cricket",
         "location": "Mulberry Gardens, Opp Laxmi Lawns, Magarpatta City, Hadapsar, Pune, Maharashtra 411028",
         "image": "https://playo-activities.gumlet.io/TWENTY2YARDSCRICKETACADEMY/Twenty2yardsCricketAcademycover1509875258551.jpg?q=40",
         "timing": "Morning and evening session",
@@ -267,6 +286,7 @@
       {
         "city": "pune",
         "name": "PYC HINDU GYMKHANA",
+        "catergory" : "cricket",
         "location": "CTS No. 766, F.P. No. 244, Bhandarkar Road, Pune, Maharashtra 411004",
         "image": "https://playo-activities.gumlet.io/PYCHINDUGYMKHANA/PYCHinduGymkhanacover1509901942899.jpg?q=40",
         "timing": "Morning and evening session",
@@ -281,6 +301,7 @@
       {
         "city": "pune",
         "name": "SANJAY SPORTS ACADEMY",
+        "catergory" : "cricket",
         "location": "19/1b/1, Near Hotel Rajwada, BanerRoad, Someshwarwadi, Pune, Maharashtra 411008",
         "image": "https://playo-activities.gumlet.io/SANJAYSPORTSACADEMY/SanjaySportsAcademycover1510047492354.jpg?q=40",
         "timing": "Morning and Evening session",
@@ -295,6 +316,7 @@
       {
         "city": "pune",
         "name": "SILVER SPORTS CLUB",
+        "catergory" : "cricket",
         "location": "165/1, 166/5 , Near by Mumbai-Bangalore Highway, Behind Vedanta Society ,, Wakad,, Shankar Kalat Nagar, Wakad, Pune, Maharashtra 411057",
         "image": "https://playo-activities.gumlet.io/SANJAYSPORTSACADEMY/SanjaySportsAcademycover1510047492354.jpg?q=40",
         "timing": "Morning and evening session",
@@ -309,6 +331,7 @@
       {
         "city": "mumbai",
         "name": "SANJEEVANI CRICKET ACADEMY",
+        "catergory" : "cricket",
         "location": "Bandra East",
         "image": "https://playo-activities.gumlet.io/SANJEEVANICRICKETACADEMY/SanjeevaniCricketAcademycover1508259425818.jpg?q=40",
         "timing": "Morning and Evening Classes",
@@ -323,6 +346,7 @@
       {
         "city": "mumbai",
         "name": "MUMBAI CRICKET ASSOCIATION INDOOR CRICKET ACADEMY",
+        "catergory" : "cricket",
         "location": "Bandra East",
         "image": "https://playo-activities.gumlet.io/TWENTY2YARDSCRICKETACADEMY/Twenty2yardsCricketAcademycover1509875258551.jpg?q=40",
         "timing": "Morning And Evening session",
@@ -337,6 +361,7 @@
       {
         "city": "mumbai",
         "name": "GLOBAL CRICKET SCHOOL",
+        "catergory" : "cricket",
         "location": "508, Neelkanth, 98, Marine Drive, Churchgate, Mumbai, Maharashtra",
         "image": "https://playo-activities.gumlet.io/PYCHINDUGYMKHANA/PYCHinduGymkhanacover1509901942899.jpg?q=40",
         "timing": "Morning to Evening Classes",
@@ -351,6 +376,7 @@
       {
         "city": "mumbai",
         "name": "SHIVAJI PARK GYMKHANA",
+        "catergory" : "cricket",
         "location": "Keluskar Road South, Shivaji Park, Dadar West, Mumbai, Maharashtra",
         "image": "https://playo-activities.gumlet.io/TWENTY2YARDSCRICKETACADEMY/Twenty2yardsCricketAcademycover1509875258551.jpg?q=40",
         "timing": "Morning and Evening Classes",
@@ -365,6 +391,7 @@
       {
         "city": "mumbai",
         "name": "VIDYA PARADKAR ACADEMY",
+        "catergory" : "cricket",
         "location": "c/o Vidyadhar Paradkar 264, Bhadkamkar Marg 16, Pannalal Terraces, Mumbai, Maharashtra",
         "image": "https://playo-activities.gumlet.io/SANJEEVANICRICKETACADEMY/SanjeevaniCricketAcademycover1508259425818.jpg?q=40",
         "timing": "Morning and Evening Session",
@@ -379,6 +406,7 @@
       {
         "city": "mumbai",
         "name": "OCEAN SWIMMING ACADEMY",
+        "catergory" : "swimming",
         "location": "201 G12, Navjeevan Co-Op Soc, Sangharsh Nagar, Chandivali, Near Sakinaka Nahar Amrit Shakti, Andhieri (East), Mumbai, Maharashtra 400072",
         "image": "https://playo-activities.gumlet.io/OCEANSWIMMINGACADEMY/OceanSwimmingAcademycover1508868127434.jpg?q=40",
         "timing": "Morning and Evening session",
@@ -393,6 +421,7 @@
       {
         "city": "kolkata",
         "name": "FOOTBALL TOURNAMENT",
+        "catergory" : "football",
         "location": "Indian Statistical Institute, 205 B.T. Road, Kolkata, West Bengal, India",
         "image": "https://playo-activities.gumlet.io/FOOTBALLTOURNAMENT/FootballTournamentcover.PNG?q=40",
         "timing": "11th March-19th March, 2017 | 9:00 A.M. - 7:00 P.M.",
@@ -407,6 +436,7 @@
       {
         "city": "kolkata",
         "name": "CALCUTTA CRICKET ACADEMY",
+        "catergory" : "cricket",
         "location": "Southern Ave, Lake Gardens, Vivekananda Park (est) Ground, Hemanta Mukherjee Sarani, lake Terrace, Ballygunge, Kolkata, West Bengal 700029",
         "image": "https://playo-activities.gumlet.io/GULLYCRICKET/GullyCricketcover.PNG?q=40",
         "timing": "Morning and Evening session",

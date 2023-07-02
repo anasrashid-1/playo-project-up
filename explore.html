@@ -64,9 +64,11 @@
           <div class="align">
             <p class="filtertext">Categories</p>
             <select id="filterbyselect" class="bold space1">
-              <option value="Select Sports">All</option>
-              <option value="Cricket">Cricket</option>
-              <option value="Football">Football</option>
+              <option value="all">All</option>
+              <option value="cricket">Cricket</option>
+              <option value="football">Football</option>
+              <option value="swimming">Swimming</option>
+              <option value="badminton">Badminton</option>
               </select>
           </div>
         </div>
@@ -269,6 +271,8 @@
 
    //Append Data Function 
    function apprndData(data){
+    let mainCon = document.getElementById("con");
+    mainCon.innerHTML = null;
     console.log("appms")
     console.log(data)
     data.map((el)=>{
@@ -323,9 +327,19 @@
 let filterbyselect = document.getElementById("filterbyselect");
 filterbyselect.addEventListener("change", function(){
   console.log(newfiltered)
-  let result = newfiltered.filter((el) => {
-    
+  // console.log(filterbyselect.value)
+  if(filterbyselect.value === "all"){
+    apprndData(newfiltered)
+  }
+  else{
+    let result = newfiltered.filter((el) => {
+    console.log(filterbyselect.value)
+    console.log(el.catergory)
+    return filterbyselect.value === el.catergory
   })
+  apprndData(result)
+  }
+ 
 })
 
 
